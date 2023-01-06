@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Intent Implisit Challenge Faisal</string>
+    <string name="add_item">Add Item</string>
+    <string name="item_list">Daftar Belanja</string>
+    <string name="button_loc">Open Location</string>
+    <string name="choose_an_item">Pilih Item</string>
+    <string name="chocolate">Coklat</string>
+    <string name="Avocado">Alpukat</string>
+    <string name="french_fries">Kentang Goreng</string>
+    <string name="strawberry">Stroberi</string>
+    <string name="fried_chicken">Ayam Goreng</string>
+    <string name="sugar">Gula</string>
+    <string name="nugget">Nugget</string>
+    <string name="water_melon">Semangka</string>
+    <string name="sausage">Sosis</string>
+    <string name="tofu">Tahu</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Demo Spinner Faisal</string>
+    <string name="label_message">Negara Peserta FIFA World Cup 2022</string>
+    <string-array name="Daftar_negara">
+        <item>Belgia</item>
+        <item>Inggris</item>
+        <item>Jerman</item>
+        <item>Portugal</item>
+        <item>Spanyol</item>
+        <item>Swiss</item>
+        <item>Australia</item>
+        <item>Jepang</item>
+        <item>Qatar</item>
+        <item>Korea Selatan</item>
+        <item>Kanada</item>
+        <item>Amerika Serikat</item>
+        <item>Meksiko</item>
+        <item>Brazil</item>
+    </string-array>
+</resources>

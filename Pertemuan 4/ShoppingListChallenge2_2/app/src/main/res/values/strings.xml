@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shopping List Challenge 2_2 Faisal</string>
+    <string name="item_list">Daftar Belanja</string>
+    <string name="add_item">Add Item</string>
+    <string name="choose_an_item">Pilih Item</string>
+    <string name="melon">Melon</string>
+    <string name="coklat">Coklat</string>
+    <string name="mie_goreng">Mie Goreng</string>
+    <string name="milk">Susu</string>
+    <string name="ayam_goreng">Ayam Goreng</string>
+    <string name="gula">Gula</string>
+    <string name="nugget">Nugget</string>
+    <string name="tepung">Tepung</string>
+    <string name="nasi_goreng">Nasi Goreng</string>
+    <string name="kentang">Kentang</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_menu"
+        android:title="Breakfast"
+        android:icon="@drawable/ic_baseline_free_breakfast_24"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/main_menu2"
+        android:title="Lunch"
+        android:icon="@drawable/ic_baseline_fastfood_24"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+
+    <item
+        android:id="@+id/main_menu3"
+        android:title="Dinner"
+        android:icon="@drawable/ic_baseline_food_bank_24"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+
+    <item
+        android:id="@+id/main_menu4"
+        android:title="Meeting"
+        android:icon="@drawable/ic_baseline_meeting_room_24"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/main_menu5"
+        android:title="Party"
+        android:icon="@drawable/ic_baseline_party_mode_24"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+</menu>

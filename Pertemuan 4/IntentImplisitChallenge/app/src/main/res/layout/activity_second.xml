@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="id.ac.poliban.e020320066.intentimplisitchallenge.SecondActivity">
+
+
+    <TextView
+        android:id="@+id/tv_header_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="@string/choose_an_item"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bt_Avocado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/Avocado"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_chocolate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/chocolate"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_french_fries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/french_fries"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_strawberry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/strawberry"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_fried_chicken"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/fried_chicken"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_sugar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/sugar"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_nugget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/nugget"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_watermelon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/water_melon"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_sausage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/sausage"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_tofu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:minHeight="48dp"
+        android:onClick="addItemToMainAct"
+        android:text="@string/tofu"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+</LinearLayout>

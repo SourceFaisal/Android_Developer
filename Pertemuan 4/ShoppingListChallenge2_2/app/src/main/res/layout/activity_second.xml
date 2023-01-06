@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="id.ac.poliban.e020320066.shoppinglistchallenge2_2.SecondActivity">
+
+    <TextView
+        android:id="@+id/tv_header_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:text="@string/choose_an_item"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bt_melon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/melon"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_coklat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/coklat"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_mie_goreng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/mie_goreng"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_milk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/milk"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_ayam_goreng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/ayam_goreng"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_gula"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/gula"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_nugget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/nugget"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_tepung"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/tepung"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_nasi_goreng"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:onClick="addItemToMainAct"
+        android:text="@string/nasi_goreng"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+    <Button
+        android:id="@+id/bt_kentang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:gravity="center"
+        android:minHeight="48dp"
+        android:onClick="addItemToMainAct"
+        android:text="@string/kentang"
+        android:textSize="20sp"
+        tools:ignore="UsingOnClickInXml" />
+
+</LinearLayout>

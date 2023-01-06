@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Demos Spinner Faisal</string>
+    <string name="nama_asian">South East Asian Countries</string>
+    <string name="alert_title">Show Message</string>
+    <string-array name="daftar_negara">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapora</item>
+        <item>Kamboja</item>
+        <item>Thailand</item>
+        <item>Philipina</item>
+        <item>Vietnam</item>
+        <item>Laos</item>
+        <item>Myanmar</item>
+        <item>Brunei Darussalam</item>
+        <item>Timor-Leste</item>
+    </string-array>
+
+    <string name="alert_message">Anda Ingin Pesan</string>
+
+    <string name="pressed_cancel">Pressed Cancel</string>
+
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="edit_message">Edit choice clicked.</string>
+    <string name="share_message">Share choice clicked.</string>
+    <string name="delete_message">Delete choice clicked.</string>
+</resources>

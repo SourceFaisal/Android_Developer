@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Homework 8_2 Faisal</string>
+    <string name="notify_me">Notify Me</string>
+    <string name="channel_desc">Notifies at 10:00AM to make a wish!</string>
+    <string name="channel_name">Make a wish notification</string>
+    <string name="notify_title">Make A Wish!</string>
+    <string name="notify_text">It is 10:10 AM</string>
+    <string name="toast_message">You will be notified</string>
+</resources>
